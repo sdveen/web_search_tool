@@ -26,7 +26,7 @@
 
 ## 目录结构
 
-toolbox/
+```txt
 ├── main.py # 入口，Tkinter 界面
 ├── core/
 │ ├── **init**.py
@@ -36,6 +36,7 @@ toolbox/
 ├── subdomain.py # 子域名爆破
 ├── directory.py # 目录爆破
 └── fofa.py # FOFA 信息收集
+```
 
 ---
 
