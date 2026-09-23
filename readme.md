@@ -29,10 +29,10 @@
 ```txt
 ├── main.py # 入口，Tkinter 界面
 ├── core/
-│ ├── **init**.py
+│ ├── init.py
 │ └── base.py # Field / ModuleContext / BaseModule / 注册表
 └── modules/
-├── **init**.py # 导入各模块，触发 @register
+├── init.py # 导入各模块，触发 @register
 ├── subdomain.py # 子域名爆破
 ├── directory.py # 目录爆破
 └── fofa.py # FOFA 信息收集
